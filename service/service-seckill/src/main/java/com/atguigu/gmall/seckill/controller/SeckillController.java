@@ -8,8 +8,7 @@ package com.atguigu.gmall.seckill.controller;
  * @Description:
  */
 public class SeckillController {
-    public static void main(String[] args) {
 
-    }
+
 
 }
